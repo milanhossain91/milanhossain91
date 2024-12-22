@@ -2,7 +2,7 @@
 #### Software Engineer | Web Developer
 ![Software Engineer | Web Developer](https://scontent.fdac174-1.fna.fbcdn.net/v/t39.30808-6/470137207_122130012242459841_6496042411364409309_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHNOlZIytw7RZZCS0mgtfWc4cqrZQ1ydf3hyqtlDXJ1_TsijnPAM6gHe_maq-YvxvJDCJh3kIyxHnAn_HtYMiel&_nc_ohc=CRqOGjMDfv4Q7kNvgHAqmMy&_nc_zt=23&_nc_ht=scontent.fdac174-1.fna&_nc_gid=ATQ4Irgl_0JG88f6hCSIIoV&oh=00_AYBgm3ZUDWwGjPFaPYAXISZBjmfmeSbe1pkCY_AI33zyEA&oe=676DCC1D)
 
-I am Taibur Rahman Milan, a passionate Software Engineer with expertise in building scalable and efficient web applications. 
+### I am Taibur Rahman Milan, a passionate Software Engineer with expertise in building scalable and efficient web applications. 
 
 ### I specialize in:
 ### Backend Development: PHP, Laravel, CodeIgniter
